@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+font-family: 'Lemonada', cursive;
+color: rgb(234, 68, 168);
+}
+span{
+    font-size: 20px;
+    color: red;
+}
+
+#status,#objects,#btn_start
+{
+font-size: 18px;
+font-family: monospace;
+}
+
+canvas{
+    border: 5px solid rgb(234, 68, 168);
+    box-shadow: 5px 5px 5px aqua;
+    border-radius: 20px;
+    margin-top: 80px;
+}
